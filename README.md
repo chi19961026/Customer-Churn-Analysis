@@ -43,10 +43,10 @@ Long-term:
 Potential to increase monthly revenue by 4% to 8% and Customer Lifetime Value by 4% to 12%.
 
 ## Repository Contents
-1. Churn Analysis: [Link to Churn Analysis Code]
-2. Customer Segmentation: [Link to K-means Clustering Code]
-3. Churn Prediction Model: [Link to ML Prediction Model Code]
-4. Project Report: Detailed insights, recommendations, and forecasting.
+1. Churn Analysis: [[Link to Churn Analysis Code](https://github.com/chi19961026/Customer-Churn-Analysis/blob/main/Churn_Analysis.ipynb)]
+2. Customer Segmentation: [[Link to K-means Clustering Code](https://github.com/chi19961026/Customer-Churn-Analysis/blob/main/Customer%20Segmentation%20using%20K-means%20Clustering.ipynb)]
+3. Churn Prediction Model: [[Link to ML Prediction Model Code](https://github.com/chi19961026/Customer-Churn-Analysis/blob/main/Churn_Prediction_Model.ipynb)]
+4. Project Report: [Detailed insights, recommendations, and forecasting.](https://github.com/chi19961026/Customer-Churn-Analysis/blob/main/Customer%20Churn%20Project%20Report.pdf)
 
 ## Conclusion
 This project provides an end-to-end framework to reduce churn and enhance revenue through data-driven insights, machine learning, and tailored customer strategies.
