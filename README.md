@@ -1,4 +1,4 @@
-# Customer Churn Analysis, Clustering, and Prediction Model Development
+# Customer Segmentation and Churn Prediction
 
 ## Project Overview
 This project aims to reduce customer churn and increase revenue through a comprehensive data analysis process, machine learning models, and actionable recommendations. 
